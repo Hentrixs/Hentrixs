@@ -3,7 +3,10 @@
 
 <h3 align="left">Mis Repositorios:</h3>
 <p align="left">
-  
+- 🎓 [UTN-Obligatorios](https://github.com/tuusuario/UTN-Obligatorios)
+- 💡 [UTN-Opcionales](https://github.com/tuusuario/UTN-Opcionales)  
+- 🚀 [Personal-Projects](https://github.com/tuusuario/Personal-Projects)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
