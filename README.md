@@ -1,8 +1,9 @@
 <h1 align="center">Hola soy Tobias Ramirez / Hentrixs</h1>
 <h3 align="center">🎓 Estudiante de Desarrollo de Software en la UTN Buenos Aires, apasionado por el desarrollo de soluciones creativas y funcionales que generen valor real y resultados tangibles. A mis 18 años, me encuentro en constante aprendizaje, enfocado en combinar la lógica del código con una mentalidad orientada al impacto y la eficiencia. Busco seguir creciendo como desarrollador y aportar con proyectos que transformen ideas en resultados concretos.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mis Repositorios:</h3>
 <p align="left">
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
